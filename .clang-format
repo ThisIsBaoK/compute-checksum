@@ -1,0 +1,34 @@
+# Indentation
+IndentWidth: 4
+UseTab: Never
+IndentAccessModifiers: false
+NamespaceIndentation: All
+IndentCaseLabels: false
+AccessModifierOffset: -4
+
+# Spaces
+SpacesBeforeTrailingComments: 1
+SpacesInParentheses: false
+SpacesInSquareBrackets: false
+SpacesInAngles: false
+SpaceInEmptyParentheses: false
+SpacesInCStyleCastParentheses: false
+SpaceAfterCStyleCast: false
+SpacesInContainerLiterals: false
+SpaceBeforeAssignmentOperators: true
+SpaceAfterControlStatementKeyword: true
+SpaceBeforeSquareBrackets: false
+SpaceAfterTemplateKeyword: false
+SpaceBeforeParens: ControlStatements
+
+# Line spacing.
+EmptyLineBeforeAccessModifier: Always
+
+# Braces
+BreakBeforeBraces: Custom
+BraceWrapping:
+  BeforeElse: true
+
+
+# Line length
+ColumnLimit: 0
